@@ -1,0 +1,6 @@
+{
+    "name": "papryk/coding_dojo",
+    "require": {
+        "phpunit/phpunit": "^5.5"
+    }
+}
